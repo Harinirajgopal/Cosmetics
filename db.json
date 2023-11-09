@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Loreal cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP._J339YIYIt25iVotUFUO2AHaKS?pid=ImgDet&rs=1",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 2,
+      "title": "Meblline cosmetics",
+      "Img":"https://i.pinimg.com/originals/d1/1b/af/d11baf1b717af29d913647b6eb0a0930.jpg",
+      "Price": 1800,
+      "quantity":"10"
+    },
+    {
+      "id": 3,
+      "title": "Lackme cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP.grhNDUkImMmGd28tsWb30AHaE8?pid=ImgDet&rs=1",
+      "Price": 2500,
+      "quantity":"10"
+    },
+    {
+      "id": 4,
+      "title": "Revolution cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP._J339YIYIt25iVotUFUO2AHaKS?pid=ImgDet&rs=1",
+      "Price": 1850,
+      "quantity":"10"
+    },
+    {
+      "id": 5,
+      "title": "Lakme cosmetics",
+      "Img":"https://i.pinimg.com/originals/d1/1b/af/d11baf1b717af29d913647b6eb0a0930.jpg",
+      "Price": 1600,
+      "quantity":"10"
+    },
+    {
+      "id": 6,
+      "title": "Revolution cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP.grhNDUkImMmGd28tsWb30AHaE8?pid=ImgDet&rs=1",
+      "Price": 1500,
+      "quantity":"10"
+    },
+    {
+      "id": 7,
+      "title": "Loreal cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP._J339YIYIt25iVotUFUO2AHaKS?pid=ImgDet&rs=1",
+      "Price": 1600,
+      "quantity":"10"
+    },
+    {
+      "id": 8,
+      "title": "Lakme cosmetics",
+      "Img":"https://i.pinimg.com/originals/d1/1b/af/d11baf1b717af29d913647b6eb0a0930.jpg",
+      "Price": 1200,
+      "quantity":"10"
+    },
+    {
+      "id": 9,
+      "title": "Revolution cosmetics",
+      "Img":"https://th.bing.com/th/id/OIP.grhNDUkImMmGd28tsWb30AHaE8?pid=ImgDet&rs=1",
+      "Price": 1400,
+      "quantity":"10"
+    }
+  ],
+  "Cart": [
+   
+  ]
+  
+}
